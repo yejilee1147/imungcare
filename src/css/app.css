@@ -1,0 +1,10 @@
+/* iOS Cordova Tweak */
+.device-cordova.device-ios {
+  height: 100vh;
+}
+
+/* Your app custom styles here */
+
+.ios{
+  --f7-input-placeholder-color: #cf1818;
+}
